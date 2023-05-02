@@ -84,7 +84,7 @@ Each button ([forward](Pi/forward.php), [backward](Pi/backward.php), [left](Pi/l
 
 ## Schematic
 
-<br><img src="Media/schematic.png" style="height:600px">
+<br><img src="Media/schematic.png" style="max-width:600px">
 
 ## Mbed Code
 
@@ -92,4 +92,4 @@ The code on the Mbed side was relatively simple. RTOS was used to handle the fol
 
 ## Video Demo
 
-<video src="Media/demo.mp4"></video>
+<video src="https://user-images.githubusercontent.com/19234681/235768128-a51384a7-8ea1-4e86-a4a4-79c9ba064927.mp4"></video>

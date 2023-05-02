@@ -1,4 +1,4 @@
-# Web-Controlled Ultrasonic Robot With Live-Streaming Camera
+# Web-Controlled Robot With Live-Streaming Camera and Ultrasonic Obstacle Avoidance
 
 Georgia Tech ECE 4180 Final Project
 

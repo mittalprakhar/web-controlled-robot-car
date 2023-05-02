@@ -1,4 +1,4 @@
-# Web-Controlled Robot With Live-Streaming Camera and Ultrasonic Obstacle Avoidance
+# Web-Controlled Robot Car with Livestreaming Camera and Obstacle Avoidance
 
 Georgia Tech ECE 4180 Final Project
 
@@ -84,7 +84,7 @@ Each button ([forward](Pi/forward.php), [backward](Pi/backward.php), [left](Pi/l
 
 ## Schematic
 
-<br><img src="Media/schematic.png" style="max-width:600px">
+<img src="Media/schematic.png" style="max-width:600px">
 
 ## Mbed Code
 

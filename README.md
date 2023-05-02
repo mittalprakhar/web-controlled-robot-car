@@ -2,7 +2,7 @@
 
 Georgia Tech ECE 4180 Final Project
 
-Team Members: Prakhar Mittal, Meghna Jain, Minseung Jung, Nicolas Rios
+Team Members: [Prakhar Mittal](https://github.com/mittalprakhar), [Meghna Jain](https://github.com/mjain02), [Nicolas Rios](https://github.com/incordios), [Minseung Jung](https://github.com/mjung76)
 
 ## Description
 
